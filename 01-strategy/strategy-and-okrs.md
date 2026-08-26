@@ -15,7 +15,7 @@ _One line on why you picked it._
 
 | Question | Your choice |
 |---|---|
-| **Winning aspiration**: winning in the customer's terms, not internal metrics | _____ |
+| **Winning aspiration**: winning in the customer's terms, not internal metrics | (Success for superintendents will be like documenting work in seconds without logging in computer, capture photos from phone, don't have to enter the same information multiple times)|
 | **Where to play**: segment, geography, channel, use case (the no's matter too) | _____ |
 | **How to win**: your differentiator competitors can't easily replicate | _____ |
 | **Capabilities required**: what you must be world-class at (build / buy / partner) | _____ |

@@ -10,7 +10,7 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
-| 1 | **Product Strategy One-Pager & OKRs** | M1 | ☐ | `01-strategy/strategy-and-okrs.md` |
+| 1 | **Product Strategy One-Pager & OKRs** | M1 | ☐ | `01-strategy/strategy-and-okrs.md` |https://drive.google.com/file/d/1PqA7u2DGwGpTPjf3zmQlv000asqg4wZF/view?usp=sharing
 | 2 | **Outcome Roadmap & Trade-off Memo** | M2 | ☐ | `02-roadmap/outcome-roadmap.md` |
 | 3 | **Team Charter** (What We Own + How We Decide) | M3 | ☐ | `03-team-charter/team-charter.md` |
 | 4 | **Financial Model** (business case + kill criteria) | M5 | ☐ | `04-financial-model/financial-model.md` |
